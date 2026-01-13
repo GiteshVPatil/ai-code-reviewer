@@ -28,7 +28,7 @@ AI Code Reviewer/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/gunwant29/ai-code-reviewer.git
+git clone https://github.com/GiteshVPatil/ai-code-reviewer.git
 cd ai-code-reviewer
 
 2. Setup Backend
@@ -59,5 +59,5 @@ PORT=5000
 
 
 👨‍💻 Author
-Gunwant Patil
+Gitesh Patil
 	•	💼 Aspiring MERN Stack Developer 
